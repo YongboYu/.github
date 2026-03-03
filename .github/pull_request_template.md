@@ -1,11 +1,10 @@
-## What
+## Summary
+Describe what this PR changes and why.
 
-Brief description of the change.
+## Validation
+Explain how you tested or validated the change.
 
-## Why
-
-Motivation or issue reference.
-
-## How
-
-Key implementation details (if not obvious from the diff).
+## Checklist
+- [ ] Tests pass (if applicable)
+- [ ] Documentation updated (if needed)
+- [ ] Result changes documented (if applicable)

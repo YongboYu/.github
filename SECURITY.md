@@ -1,16 +1,52 @@
 # Security Policy
 
+These repositories are research-focused and maintained on a best-effort basis.
+
+---
+
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please report it responsibly.
+**Please do not open a public issue for security vulnerabilities.**
 
-**Do NOT open a public GitHub issue.**
+Preferred:
+- Use **GitHub Private Vulnerability Reporting**
+  (Security → Advisories → Report a vulnerability)
 
-Instead, please use [GitHub's private vulnerability reporting](../../security/advisories/new)
-or email: **[your-email@example.com]**
+Alternative:
+- Email: [contact@yongboyu.me](mailto:contact@yongboyu.me)
 
-You should receive a response within 48 hours.
+Please include:
+
+- Affected repository and branch/commit (if known)
+- Description of the issue and impact
+- Steps to reproduce (or minimal PoC)
+- Suggested mitigation (optional)
+
+---
+
+## Response Expectations
+
+We aim to acknowledge reports within 5 business days.
+
+We support coordinated disclosure and will work with you on a responsible fix.
+
+---
 
 ## Supported Versions
 
-Only the latest version on the `main` branch is actively maintained.
+Security fixes apply to:
+
+- The default branch (e.g., `main`)
+- The latest tagged release (if applicable)
+
+Older snapshots and forks are not supported.
+
+---
+
+## Safe Harbor
+
+We will not pursue legal action against researchers who:
+
+- Act in good faith
+- Avoid privacy violations and service disruption
+- Follow this policy
